@@ -1,5 +1,5 @@
 # mathematical-foundations
-Material didático aberto de matemática universitária, com aplicações em dados. Por Priscila Bemm.
+Material didático, aberto, de matemática universitária, com aplicações em dados. Por Priscila Bemm.
 
 Este projeto nasceu da minha paixão por ensinar matemática e da transição para a área de análise de dados. Aqui, você encontrará slides, em pdf e no formato originaç (.tex), listas de exercícios, e código-fonte (tex, Python) desenvolvidos para minhas disciplinas. 
 
