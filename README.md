@@ -22,7 +22,7 @@ O objetivo desse repositório é:
 -   **Cálculo Vetorial:** Campos vetoriais, integrais de linha, teoremas de Green, Stokes e Divergência.
 
 
-**Acesse a pasta do curso:** [`/calculo-ii`](/calculo-ii)
+**Acesse a pasta do curso:** [`/calculo2`](/calculo2)
 
 ### 🚧 **Em Breve (Em Desenvolvimento)**
 -   **Álgebra Linear**
